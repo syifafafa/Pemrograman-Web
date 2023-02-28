@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 0;
+}
+
+.lomba {
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.lomba-1 {
+    align-items: center;
+    background-color: bisque;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+}
+
+.lomba-2 {
+    align-items: center;
+    background-color: bisque;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 20px;
+    max-width: 1000px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}

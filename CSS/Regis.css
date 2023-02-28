@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.container{
+    background-color: #AEE4E4;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 500px;
+    height: 350px;
+    
+}
+.containerSignin{
+    display: flex;
+    align-items: center;
+}
+
+body {
+    background-color: #6BBABB;
+}
